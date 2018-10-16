@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: new world!
+description: a
+gifthub:
+  is_project_page: false
